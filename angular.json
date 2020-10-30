@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-guards"
+    }
+  },
+  "defaultProject": "angular-guards",
+  "cli": {
+    "analytics": false
+  }
 }
